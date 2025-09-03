@@ -2,12 +2,15 @@ let questions = [];
 let currentQuestionIndex = 0;
 let score = 0;
 let answered = [];
+let correctAnswers = [];
+let selectedIndex = -1;
 
 async function loadQuestions() {
   try {
     const response = await fetch("questions.json");
     questions = await response.json();
     answered = new Array(questions.length).fill(false);
+    correctAnswers = new Array(questions.length).fill(null);
     generateQuestionList();
     loadQuestion();
   } catch (error) {
@@ -25,6 +28,8 @@ function loadQuestion() {
     option.classList.remove("selected", "correct", "incorrect");
     option.onclick = () => selectOption(index);
   });
+  selectedIndex = -1;
+  document.getElementById("confirm-btn").style.display = "none";
   updateProgress();
   updateQuestionList();
   document.getElementById("question-container").style.display = "block";
@@ -34,9 +39,23 @@ function loadQuestion() {
 function generateQuestionList() {
   const list = document.getElementById("question-list");
   list.innerHTML = "";
-  questions.forEach((_, index) => {
+  questions.forEach((question, index) => {
     const li = document.createElement("li");
-    li.textContent = `問題 ${index + 1}`;
+    const title = document.createElement("div");
+    title.className = "question-title";
+    title.textContent = `問題 ${index + 1}`;
+    const status = document.createElement("div");
+    status.className = "question-status";
+    status.textContent = "";
+    const text = document.createElement("div");
+    text.className = "question-text";
+    text.textContent =
+      question.question.length > 30
+        ? question.question.substring(0, 30) + "..."
+        : question.question;
+    li.appendChild(title);
+    li.appendChild(status);
+    li.appendChild(text);
     li.onclick = () => jumpToQuestion(index);
     list.appendChild(li);
   });
@@ -46,12 +65,24 @@ function generateQuestionList() {
 function updateQuestionList() {
   const listItems = document.querySelectorAll("#question-list li");
   listItems.forEach((li, index) => {
-    li.classList.remove("current", "answered");
+    li.classList.remove("current", "answered", "correct", "incorrect");
+    const status = li.querySelector(".question-status");
+    status.textContent = "";
+    status.style.color = "";
     if (index === currentQuestionIndex) {
       li.classList.add("current");
     }
     if (answered[index]) {
       li.classList.add("answered");
+      if (correctAnswers[index]) {
+        li.classList.add("correct");
+        status.textContent = "正解";
+        status.style.color = "#4caf50";
+      } else {
+        li.classList.add("incorrect");
+        status.textContent = "不正解";
+        status.style.color = "#f44336";
+      }
     }
   });
 }
@@ -61,13 +92,21 @@ function jumpToQuestion(index) {
   loadQuestion();
 }
 
-function selectOption(selectedIndex) {
+function selectOption(index) {
+  const options = document.querySelectorAll(".option");
+  options.forEach((option, i) => {
+    option.classList.remove("selected");
+  });
+  options[index].classList.add("selected");
+  selectedIndex = index;
+  document.getElementById("confirm-btn").style.display = "block";
+}
+
+document.getElementById("confirm-btn").onclick = () => {
+  if (selectedIndex === -1) return;
   const question = questions[currentQuestionIndex];
   const correct = question.correct;
   const options = document.querySelectorAll(".option");
-
-  // 選択したオプションをハイライト
-  options[selectedIndex].classList.add("selected");
 
   // 正解/不正解を表示
   const isCorrect = selectedIndex === correct;
@@ -86,11 +125,12 @@ function selectOption(selectedIndex) {
 
   // 回答済みにマーク
   answered[currentQuestionIndex] = true;
+  correctAnswers[currentQuestionIndex] = isCorrect;
   updateQuestionList();
 
-  document.getElementById("question-container").style.display = "none";
+  document.getElementById("confirm-btn").style.display = "none";
   document.getElementById("answer-container").style.display = "block";
-}
+};
 
 function updateProgress() {
   const progress = ((currentQuestionIndex + 1) / questions.length) * 100;
@@ -121,6 +161,7 @@ document.getElementById("restart-btn").onclick = () => {
   currentQuestionIndex = 0;
   score = 0;
   answered = new Array(questions.length).fill(false);
+  correctAnswers = new Array(questions.length).fill(null);
   updateQuestionList();
   document.getElementById("result-container").style.display = "none";
   loadQuestion();
