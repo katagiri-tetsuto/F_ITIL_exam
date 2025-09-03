@@ -79,11 +79,19 @@ function loadQuestion() {
   });
   selectedIndex = -1;
   document.getElementById("confirm-btn").style.display = "none";
-  document.getElementById("finish-test-btn").style.display = "none";
+  document.getElementById("finish-test-btn").style.display = "block";
   updateProgress();
   updateQuestionList();
   document.getElementById("question-container").style.display = "block";
   document.getElementById("answer-container").style.display = "none";
+
+  // 最後の問題の場合、next-btnのテキストを変更
+  const nextBtn = document.getElementById("next-btn");
+  if (currentQuestionIndex === set.length - 1) {
+    nextBtn.textContent = "テストを完了";
+  } else {
+    nextBtn.textContent = "次の問題 ▶";
+  }
 }
 
 function generateQuestionList() {
@@ -223,6 +231,10 @@ function showAnalysisScreen() {
 
 document.getElementById("back-to-top-btn").onclick = () => {
   showTopScreen();
+};
+
+document.getElementById("back-to-quiz-btn").onclick = () => {
+  showQuizScreen();
 };
 
 document.getElementById("finish-test-btn").onclick = () => {

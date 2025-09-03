@@ -154,7 +154,6 @@ body {
 }
 
 #finish-test-btn {
-  margin-top: 10px;
   padding: 10px 20px;
   background-color: #ffffff;
   color: #000000;
@@ -177,13 +176,19 @@ body {
   border: 1px solid #ddd;
 }
 
+#progress-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
 #progress-bar {
-  width: 100%;
+  flex: 1;
   height: 8px;
   background-color: #e0e0e0;
   border-radius: 4px;
-  margin-bottom: 20px;
   position: relative;
+  margin-right: 10px;
 }
 
 #progress-fill {
