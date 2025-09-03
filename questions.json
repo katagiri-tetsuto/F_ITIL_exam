@@ -32,4 +32,2347 @@
     "correct": 1,
     "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
   }
+  {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+  {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+  {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+  {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+  {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+  {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+  {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+  {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+  {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
+    {
+    "question": "ITILの目的は何ですか？",
+    "options": [
+      "ITサービスを管理する",
+      "ハードウェアを修理する",
+      "ソフトウェアを開発する",
+      "ネットワークを構築する"
+    ],
+    "correct": 0,
+    "explanation": "ITILはITサービスマネジメントのフレームワークで、ITサービスを効果的に管理し、ビジネス価値を提供することを目的としています。"
+  },
+  {
+    "question": "ITILの4つのPとは何ですか？",
+    "options": [
+      "People, Process, Product, Partner",
+      "Plan, Prepare, Perform, Perfect",
+      "Policy, Procedure, Practice, Principle",
+      "Project, Program, Portfolio, Process"
+    ],
+    "correct": 0,
+    "explanation": "ITILの4つのPはPeople（人）、Process（プロセス）、Product（製品）、Partner（パートナー）を指し、これらがITサービスマネジメントの成功に不可欠です。"
+  },
+  {
+    "question": "インシデント管理の目的は何ですか？",
+    "options": [
+      "サービスを改善する",
+      "インシデントを迅速に解決する",
+      "コストを削減する",
+      "従業員をトレーニングする"
+    ],
+    "correct": 1,
+    "explanation": "インシデント管理は、ITサービスの中断を最小限に抑え、迅速に正常なサービスレベルに戻すことを目的としています。"
+  }
 ]

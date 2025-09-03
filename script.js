@@ -29,6 +29,7 @@ function createQuestionSets() {
 }
 
 function showTopScreen() {
+  document.getElementById("sidebar").style.display = "none";
   document.getElementById("top-container").style.display = "block";
   document.getElementById("quiz-container").style.display = "none";
   document.getElementById("analysis-container").style.display = "none";
@@ -60,6 +61,7 @@ function selectSet(index) {
 }
 
 function showQuizScreen() {
+  document.getElementById("sidebar").style.display = "block";
   document.getElementById("top-container").style.display = "none";
   document.getElementById("quiz-container").style.display = "block";
   document.getElementById("analysis-container").style.display = "none";
@@ -224,6 +226,7 @@ function showAnalysisScreen() {
   document.getElementById("pass-fail").textContent =
     percentage >= 65 ? "結果: 合格" : "結果: 不合格";
 
+  document.getElementById("sidebar").style.display = "block";
   document.getElementById("top-container").style.display = "none";
   document.getElementById("quiz-container").style.display = "none";
   document.getElementById("analysis-container").style.display = "block";
