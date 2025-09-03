@@ -89,6 +89,15 @@ body {
   color: #333;
 }
 
+#main-content {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-color: #ffffff;
+}
+
 #top-container {
   text-align: center;
   padding: 20px;
@@ -104,12 +113,16 @@ body {
 
 .set-button {
   padding: 15px;
-  background-color: #007bff;
-  color: white;
-  border: none;
+  background-color: #ffffff;
+  color: #000000;
+  border: 2px solid #000000;
   border-radius: 5px;
   cursor: pointer;
   font-size: 16px;
+}
+
+.set-button:hover {
+  background-color: #f0f0f0;
 }
 
 #analysis-container {
@@ -129,25 +142,29 @@ body {
 #analysis-container button {
   margin: 10px;
   padding: 10px 20px;
-  background-color: #007bff;
-  color: white;
-  border: none;
+  background-color: #ffffff;
+  color: #000000;
+  border: 2px solid #000000;
   border-radius: 5px;
   cursor: pointer;
+}
+
+#analysis-container button:hover {
+  background-color: #f0f0f0;
 }
 
 #finish-test-btn {
   margin-top: 10px;
   padding: 10px 20px;
-  background-color: #28a745;
-  color: white;
-  border: none;
+  background-color: #ffffff;
+  color: #000000;
+  border: 2px solid #000000;
   border-radius: 5px;
   cursor: pointer;
 }
 
 #finish-test-btn:hover {
-  background-color: #218838;
+  background-color: #f0f0f0;
 }
 
 #quiz-container {

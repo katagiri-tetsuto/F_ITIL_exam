@@ -18,6 +18,16 @@ async function loadQuestions() {
   }
 }
 
+function createQuestionSets() {
+  const setSize = 40;
+  questionSets = [];
+  for (let i = 0; i < questions.length; i += setSize) {
+    questionSets.push(questions.slice(i, i + setSize));
+  }
+  console.log("questions:", questions);
+  console.log("questionSets:", questionSets);
+}
+
 function showTopScreen() {
   document.getElementById("top-container").style.display = "block";
   document.getElementById("quiz-container").style.display = "none";
@@ -28,6 +38,7 @@ function showTopScreen() {
 function generateSetList() {
   const list = document.getElementById("set-list");
   list.innerHTML = "";
+  console.log("questionSets:", questionSets);
   questionSets.forEach((set, index) => {
     const button = document.createElement("button");
     button.className = "set-button";
