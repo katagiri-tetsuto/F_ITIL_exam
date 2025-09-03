@@ -43,10 +43,14 @@ function generateQuestionList() {
     const li = document.createElement("li");
     const title = document.createElement("div");
     title.className = "question-title";
-    title.textContent = `問題 ${index + 1}`;
-    const status = document.createElement("div");
+    const number = document.createElement("span");
+    number.className = "question-number";
+    number.textContent = `問題 ${index + 1}`;
+    const status = document.createElement("span");
     status.className = "question-status";
     status.textContent = "";
+    title.appendChild(number);
+    title.appendChild(status);
     const text = document.createElement("div");
     text.className = "question-text";
     text.textContent =
@@ -54,7 +58,6 @@ function generateQuestionList() {
         ? question.question.substring(0, 30) + "..."
         : question.question;
     li.appendChild(title);
-    li.appendChild(status);
     li.appendChild(text);
     li.onclick = () => jumpToQuestion(index);
     list.appendChild(li);

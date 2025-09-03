@@ -65,12 +65,14 @@ body {
 .question-status {
   font-weight: bold;
   font-size: 12px;
-  margin-top: 5px;
 }
 
 .question-title {
   font-weight: bold;
   font-size: 14px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .question-text {
