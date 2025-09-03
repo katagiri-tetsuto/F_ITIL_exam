@@ -50,12 +50,15 @@ function generateSetList() {
 }
 
 function selectSet(index) {
-  currentSetIndex = index;
-  currentQuestionIndex = 0;
-  score = 0;
-  const set = questionSets[currentSetIndex];
-  answered = new Array(set.length).fill(false);
-  correctAnswers = new Array(set.length).fill(null);
+  if (currentSetIndex !== index) {
+    // 違うセットを選択したらリセット
+    currentSetIndex = index;
+    currentQuestionIndex = 0;
+    score = 0;
+    const set = questionSets[currentSetIndex];
+    answered = new Array(set.length).fill(false);
+    correctAnswers = new Array(set.length).fill(null);
+  }
   generateQuestionList();
   showQuizScreen();
 }
