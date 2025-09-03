@@ -1,4 +1,6 @@
 let questions = [];
+let questionSets = [];
+let currentSetIndex = -1;
 let currentQuestionIndex = 0;
 let score = 0;
 let answered = [];
@@ -9,17 +11,53 @@ async function loadQuestions() {
   try {
     const response = await fetch("questions.json");
     questions = await response.json();
-    answered = new Array(questions.length).fill(false);
-    correctAnswers = new Array(questions.length).fill(null);
-    generateQuestionList();
-    loadQuestion();
+    createQuestionSets();
+    showTopScreen();
   } catch (error) {
     console.error("問題の読み込みに失敗しました:", error);
   }
 }
 
+function showTopScreen() {
+  document.getElementById("top-container").style.display = "block";
+  document.getElementById("quiz-container").style.display = "none";
+  document.getElementById("analysis-container").style.display = "none";
+  generateSetList();
+}
+
+function generateSetList() {
+  const list = document.getElementById("set-list");
+  list.innerHTML = "";
+  questionSets.forEach((set, index) => {
+    const button = document.createElement("button");
+    button.className = "set-button";
+    button.textContent = `セット ${index + 1} (${set.length}問)`;
+    button.onclick = () => selectSet(index);
+    list.appendChild(button);
+  });
+}
+
+function selectSet(index) {
+  currentSetIndex = index;
+  currentQuestionIndex = 0;
+  score = 0;
+  const set = questionSets[currentSetIndex];
+  answered = new Array(set.length).fill(false);
+  correctAnswers = new Array(set.length).fill(null);
+  generateQuestionList();
+  showQuizScreen();
+}
+
+function showQuizScreen() {
+  document.getElementById("top-container").style.display = "none";
+  document.getElementById("quiz-container").style.display = "block";
+  document.getElementById("analysis-container").style.display = "none";
+  loadQuestion();
+}
+
 function loadQuestion() {
-  const question = questions[currentQuestionIndex];
+  const set = questionSets[currentSetIndex];
+  const question = set[currentQuestionIndex];
   document.getElementById("question").textContent = question.question;
   const options = document.querySelectorAll(".option");
   options.forEach((option, index) => {
@@ -30,6 +68,7 @@ function loadQuestion() {
   });
   selectedIndex = -1;
   document.getElementById("confirm-btn").style.display = "none";
+  document.getElementById("finish-test-btn").style.display = "none";
   updateProgress();
   updateQuestionList();
   document.getElementById("question-container").style.display = "block";
@@ -39,7 +78,8 @@ function loadQuestion() {
 function generateQuestionList() {
   const list = document.getElementById("question-list");
   list.innerHTML = "";
-  questions.forEach((question, index) => {
+  const set = questionSets[currentSetIndex];
+  set.forEach((question, index) => {
     const li = document.createElement("li");
     const title = document.createElement("div");
     title.className = "question-title";
@@ -107,7 +147,8 @@ function selectOption(index) {
 
 document.getElementById("confirm-btn").onclick = () => {
   if (selectedIndex === -1) return;
-  const question = questions[currentQuestionIndex];
+  const set = questionSets[currentSetIndex];
+  const question = set[currentQuestionIndex];
   const correct = question.correct;
   const options = document.querySelectorAll(".option");
 
@@ -132,42 +173,49 @@ document.getElementById("confirm-btn").onclick = () => {
   updateQuestionList();
 
   document.getElementById("confirm-btn").style.display = "none";
+  document.getElementById("finish-test-btn").style.display = "block";
   document.getElementById("answer-container").style.display = "block";
 };
 
 function updateProgress() {
-  const progress = ((currentQuestionIndex + 1) / questions.length) * 100;
+  const set = questionSets[currentSetIndex];
+  const progress = ((currentQuestionIndex + 1) / set.length) * 100;
   document.getElementById("progress-fill").style.width = progress + "%";
   document.getElementById("progress-text").textContent = `${
     currentQuestionIndex + 1
-  } / ${questions.length}`;
+  } / ${set.length}`;
 }
 
 document.getElementById("next-btn").onclick = () => {
   currentQuestionIndex++;
-  if (currentQuestionIndex < questions.length) {
+  const set = questionSets[currentSetIndex];
+  if (currentQuestionIndex < set.length) {
     loadQuestion();
   } else {
-    showResults();
+    showAnalysisScreen();
   }
 };
 
-function showResults() {
-  document.getElementById("answer-container").style.display = "none";
-  document.getElementById("result-container").style.display = "block";
+function showAnalysisScreen() {
+  const set = questionSets[currentSetIndex];
+  const percentage = Math.round((score / set.length) * 100);
   document.getElementById(
-    "score"
-  ).textContent = `あなたのスコア: ${score} / ${questions.length}`;
+    "analysis-score"
+  ).textContent = `正解率: ${percentage}%`;
+  document.getElementById("pass-fail").textContent =
+    percentage >= 65 ? "結果: 合格" : "結果: 不合格";
+
+  document.getElementById("top-container").style.display = "none";
+  document.getElementById("quiz-container").style.display = "none";
+  document.getElementById("analysis-container").style.display = "block";
 }
 
-document.getElementById("restart-btn").onclick = () => {
-  currentQuestionIndex = 0;
-  score = 0;
-  answered = new Array(questions.length).fill(false);
-  correctAnswers = new Array(questions.length).fill(null);
-  updateQuestionList();
-  document.getElementById("result-container").style.display = "none";
-  loadQuestion();
+document.getElementById("back-to-top-btn").onclick = () => {
+  showTopScreen();
+};
+
+document.getElementById("finish-test-btn").onclick = () => {
+  showAnalysisScreen();
 };
 
 loadQuestions();

@@ -89,13 +89,65 @@ body {
   color: #333;
 }
 
-#main-content {
-  flex: 1;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+#top-container {
+  text-align: center;
   padding: 20px;
-  background-color: #ffffff;
+}
+
+#set-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.set-button {
+  padding: 15px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+#analysis-container {
+  text-align: center;
+  padding: 20px;
+}
+
+#analysis-container h2 {
+  margin-bottom: 20px;
+}
+
+#analysis-container p {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+#analysis-container button {
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#finish-test-btn {
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#finish-test-btn:hover {
+  background-color: #218838;
 }
 
 #quiz-container {
