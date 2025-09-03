@@ -109,6 +109,8 @@ body {
   gap: 10px;
   max-width: 400px;
   margin: 0 auto;
+  max-height: 400px;
+  overflow-y: auto;
 }
 
 .set-button {
