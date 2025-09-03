@@ -240,6 +240,10 @@ document.getElementById("back-to-quiz-btn").onclick = () => {
   showQuizScreen();
 };
 
+document.getElementById("back-to-top-from-quiz-btn").onclick = () => {
+  showTopScreen();
+};
+
 document.getElementById("finish-test-btn").onclick = () => {
   showAnalysisScreen();
 };
