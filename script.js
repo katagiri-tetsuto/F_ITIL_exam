@@ -38,8 +38,8 @@ function shuffleQuestions() {
   currentSetIndex = -1;
   currentQuestionIndex = 0;
   score = 0;
-  answered = [];
-  correctAnswers = [];
+  answered = new Array(questions.length).fill(false);
+  correctAnswers = new Array(questions.length).fill(null);
   selectedIndex = -1;
   // localStorageもクリア
   for (let i = 0; i < localStorage.length; i++) {
@@ -65,12 +65,12 @@ function generateSetList() {
   questionSets.forEach((set, index) => {
     const button = document.createElement("button");
     button.className = "set-button";
-    const isCompleted =
-      localStorage.getItem(`completed_set_${index}`) === "true";
     const startIndex = index * 40;
     const endIndex = startIndex + set.length;
     const setAnswered = answered.slice(startIndex, endIndex);
     const answeredCount = setAnswered.filter((a) => a).length;
+    // すべての問題に解答済みの場合のみチェックマークを表示
+    const isCompleted = setAnswered.every((a) => a);
     button.textContent = `セット ${index + 1} (${
       set.length
     }問) - 解答済み: ${answeredCount}/${set.length}${isCompleted ? " ✅" : ""}`;
