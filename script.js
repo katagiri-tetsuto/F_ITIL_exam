@@ -96,9 +96,7 @@ function selectSet(index) {
     currentSetIndex = index;
     currentQuestionIndex = 0;
     score = 0;
-    const set = questionSets[currentSetIndex];
-    answered = new Array(set.length).fill(false);
-    correctAnswers = new Array(set.length).fill(null);
+    selectedIndex = -1;
   }
   generateQuestionList();
   showQuizScreen();
@@ -180,9 +178,10 @@ function updateQuestionList() {
     if (index === currentQuestionIndex) {
       li.classList.add("current");
     }
-    if (answered[index]) {
+    const globalIndex = currentSetIndex * 40 + index;
+    if (answered[globalIndex]) {
       li.classList.add("answered");
-      if (correctAnswers[index]) {
+      if (correctAnswers[globalIndex]) {
         li.classList.add("correct");
         status.textContent = "正解";
         status.style.color = "#4caf50";
@@ -233,8 +232,9 @@ document.getElementById("confirm-btn").onclick = () => {
   document.getElementById("explanation").textContent = question.explanation;
 
   // 回答済みにマーク
-  answered[currentQuestionIndex] = true;
-  correctAnswers[currentQuestionIndex] = isCorrect;
+  const globalIndex = currentSetIndex * 40 + currentQuestionIndex;
+  answered[globalIndex] = true;
+  correctAnswers[globalIndex] = isCorrect;
   updateQuestionList();
 
   document.getElementById("confirm-btn").style.display = "none";
