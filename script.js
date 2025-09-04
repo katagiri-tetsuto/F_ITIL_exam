@@ -28,6 +28,29 @@ function createQuestionSets() {
   console.log("questionSets:", questionSets);
 }
 
+function shuffleQuestions() {
+  for (let i = questions.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [questions[i], questions[j]] = [questions[j], questions[i]];
+  }
+  createQuestionSets();
+  // 解答情報をリセット
+  currentSetIndex = -1;
+  currentQuestionIndex = 0;
+  score = 0;
+  answered = [];
+  correctAnswers = [];
+  selectedIndex = -1;
+  // localStorageもクリア
+  for (let i = 0; i < localStorage.length; i++) {
+    const key = localStorage.key(i);
+    if (key.startsWith("completed_set_")) {
+      localStorage.removeItem(key);
+    }
+  }
+  generateSetList();
+}
+
 function showTopScreen() {
   document.getElementById("sidebar").style.display = "none";
   document.getElementById("top-container").style.display = "block";
@@ -43,7 +66,11 @@ function generateSetList() {
   questionSets.forEach((set, index) => {
     const button = document.createElement("button");
     button.className = "set-button";
-    button.textContent = `セット ${index + 1} (${set.length}問)`;
+    const isCompleted =
+      localStorage.getItem(`completed_set_${index}`) === "true";
+    button.textContent = `セット ${index + 1} (${set.length}問)${
+      isCompleted ? " ✅" : ""
+    }`;
     button.onclick = () => selectSet(index);
     list.appendChild(button);
   });
@@ -229,6 +256,11 @@ function showAnalysisScreen() {
   document.getElementById("pass-fail").textContent =
     percentage >= 65 ? "結果: 合格" : "結果: 不合格";
 
+  // 完了したら保存
+  if (answered.every((a) => a)) {
+    localStorage.setItem(`completed_set_${currentSetIndex}`, "true");
+  }
+
   document.getElementById("sidebar").style.display = "block";
   document.getElementById("top-container").style.display = "none";
   document.getElementById("quiz-container").style.display = "none";
@@ -245,6 +277,13 @@ document.getElementById("back-to-quiz-btn").onclick = () => {
 
 document.getElementById("back-to-top-from-quiz-btn").onclick = () => {
   showTopScreen();
+};
+
+document.getElementById("shuffle-btn").onclick = () => {
+  if (confirm("問題をシャッフルしますか？現在の解答情報はリセットされます。")) {
+    shuffleQuestions();
+    alert("問題がシャッフルされました！");
+  }
 };
 
 document.getElementById("finish-test-btn").onclick = () => {

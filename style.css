@@ -112,6 +112,21 @@ body {
   padding: 20px;
 }
 
+#shuffle-btn {
+  margin-bottom: 20px;
+  padding: 10px 20px;
+  background-color: #ffffff;
+  color: #000000;
+  border: 2px solid #000000;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+#shuffle-btn:hover {
+  background-color: #f0f0f0;
+}
+
 #set-list {
   display: flex;
   flex-direction: column;
