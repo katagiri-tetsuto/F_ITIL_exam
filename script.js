@@ -28,14 +28,6 @@ function createQuestionSets() {
   }
   console.log("questions:", questions);
   console.log("questionSets:", questionSets);
-  // 問題集01の中身をJSON形式で表示
-  if (questionSets[0]) {
-    const set1WithExplanations = questionSets[0].map(q => ({
-      ...q,
-      explanation: q.explanation || "この問題の解説は準備中です。"
-    }));
-    console.log("問題集01 (JSON形式):", JSON.stringify(set1WithExplanations, null, 2));
-  }
 }
 
 function shuffleQuestions() {
