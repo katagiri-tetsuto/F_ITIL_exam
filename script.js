@@ -271,8 +271,11 @@ function showAnalysisScreen() {
     percentage >= 65 ? "結果: 合格" : "結果: 不合格";
 
   // 完了したら保存
-  if (answered.every((a) => a)) {
-    localStorage.setItem(`completed_set_${currentSetIndex}`, "true");
+  const startIndex = currentSetIndex * 40;
+  const endIndex = startIndex + set.length;
+  const setAnswered = answered.slice(startIndex, endIndex);
+  if (setAnswered.every(a => a)) {
+    localStorage.setItem(`completed_set_${currentSetIndex}`, 'true');
   }
 
   document.getElementById("sidebar").style.display = "block";
