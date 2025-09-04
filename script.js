@@ -26,8 +26,6 @@ function createQuestionSets() {
   for (let i = 0; i < questions.length; i += setSize) {
     questionSets.push(questions.slice(i, i + setSize));
   }
-  console.log("questions:", questions);
-  console.log("questionSets:", questionSets);
 }
 
 function shuffleQuestions() {
@@ -61,18 +59,9 @@ function showTopScreen() {
   generateSetList();
 }
 
-function updateProgressSummary() {
-  const totalQuestions = questions.length;
-  const answeredCount = answered.filter((a) => a).length;
-  document.getElementById(
-    "progress-summary"
-  ).textContent = `解答済み: ${answeredCount} / ${totalQuestions} 問`;
-}
-
 function generateSetList() {
   const list = document.getElementById("set-list");
   list.innerHTML = "";
-  console.log("questionSets:", questionSets);
   questionSets.forEach((set, index) => {
     const button = document.createElement("button");
     button.className = "set-button";
@@ -299,7 +288,7 @@ document.getElementById("back-to-top-from-quiz-btn").onclick = () => {
 document.getElementById("shuffle-btn").onclick = () => {
   if (confirm("問題をシャッフルしますか？現在の解答情報はリセットされます。")) {
     shuffleQuestions();
-    alert("問題がシャッフルされました！");
+    showTopScreen();
   }
 };
 
