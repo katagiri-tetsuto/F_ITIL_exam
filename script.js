@@ -274,8 +274,8 @@ function showAnalysisScreen() {
   const startIndex = currentSetIndex * 40;
   const endIndex = startIndex + set.length;
   const setAnswered = answered.slice(startIndex, endIndex);
-  if (setAnswered.every(a => a)) {
-    localStorage.setItem(`completed_set_${currentSetIndex}`, 'true');
+  if (setAnswered.every((a) => a)) {
+    localStorage.setItem(`completed_set_${currentSetIndex}`, "true");
   }
 
   document.getElementById("sidebar").style.display = "block";
