@@ -12,6 +12,8 @@ async function loadQuestions() {
     const response = await fetch("questions.json");
     questions = await response.json();
     createQuestionSets();
+    answered = new Array(questions.length).fill(false);
+    correctAnswers = new Array(questions.length).fill(null);
     showTopScreen();
   } catch (error) {
     console.error("問題の読み込みに失敗しました:", error);
@@ -59,6 +61,14 @@ function showTopScreen() {
   generateSetList();
 }
 
+function updateProgressSummary() {
+  const totalQuestions = questions.length;
+  const answeredCount = answered.filter((a) => a).length;
+  document.getElementById(
+    "progress-summary"
+  ).textContent = `解答済み: ${answeredCount} / ${totalQuestions} 問`;
+}
+
 function generateSetList() {
   const list = document.getElementById("set-list");
   list.innerHTML = "";
@@ -68,9 +78,13 @@ function generateSetList() {
     button.className = "set-button";
     const isCompleted =
       localStorage.getItem(`completed_set_${index}`) === "true";
-    button.textContent = `セット ${index + 1} (${set.length}問)${
-      isCompleted ? " ✅" : ""
-    }`;
+    const startIndex = index * 40;
+    const endIndex = startIndex + set.length;
+    const setAnswered = answered.slice(startIndex, endIndex);
+    const answeredCount = setAnswered.filter((a) => a).length;
+    button.textContent = `セット ${index + 1} (${
+      set.length
+    }問) - 解答済み: ${answeredCount}/${set.length}${isCompleted ? " ✅" : ""}`;
     button.onclick = () => selectSet(index);
     list.appendChild(button);
   });
